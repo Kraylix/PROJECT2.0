@@ -1,3 +1,8 @@
+BEFORE START UP IN localhost:8080/console
+you need to change URL to --> jdbc:h2:mem:testdb
+below do not change anything please 😢
+then the project will be working.
+
 <img width="1161" height="652" alt="screen_1" src="https://github.com/user-attachments/assets/839926e9-5024-4f2f-a7ce-7edfb76eec2c" />
 <img width="720" height="1180" alt="screen_2" src="https://github.com/user-attachments/assets/1e9f025b-da72-4c0d-9851-0b954c30a832" />
 <img width="1389" height="751" alt="screen_3" src="https://github.com/user-attachments/assets/d3536523-05ce-49b6-898e-145414ca9cb8" />
